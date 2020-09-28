@@ -20,7 +20,7 @@ steps:
     azureResourceManagerConnection: 'RMPM (afc11291-9826-46be-b852-70349146ddf8)'
     subscriptionId: 'afc11291-9826-46be-b852-70349146ddf8'
     action: 'Create Or Update Resource Group'
-    resourceGroupName: 'raiyan-rg'
+    resourceGroupName: 'rai-policy-advnc'
     location: 'East US'
     templateLocation: 'Linked artifact'
     csmFile: 'arm-templates/rai-policy-advnc/template.json'
