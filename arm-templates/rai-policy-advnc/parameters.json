@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "serverfarms_ASP_raipolicyadvnc_b39f_name": {
-            "value": rai-test
+            "value": "rai-test"
         },
         "workflows_rai_logic_app_policy_test_name": {
-            "value": rai-test
+            "value": "rai-test"
         },
         "storageAccounts_storageaccountraipo885a_name": {
-            "value": rai-test
+            "value": "rai-test"
         }
     }
 }
